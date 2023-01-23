@@ -6,7 +6,7 @@ This will allow you, for example, add multiple different packages (and only them
 # How to use
 Step 1.
 ```
-git clone https://github.com/sxiii/mirror-scripts`
+git clone https://github.com/sxiii/mirror-scripts
 cd mirror-scripts
 ```
 
